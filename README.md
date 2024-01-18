@@ -7,7 +7,7 @@ This project focuses on the analysis of League of Legends data to derive insight
 
 ## Features
 
-- **Data**: Easily obtain your League of Legends match data by changing the "riot_api" varible to your API code.
+- **Data**: Easily obtain your League of Legends match data by changing the "api_key" varible to your API code.
 - **Performance Metrics**: View detailed performance metrics, including KDA, CS per minute, and more.
 - **Visualizations**: Explore interactive visualizations to gain insights into your gameplay trends.
 

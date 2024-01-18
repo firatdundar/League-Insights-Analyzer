@@ -1,5 +1,5 @@
 # Personal League of Legends Data Analysis Tool
-League of Legends Data Analysis (CS210 Course Project)
+This project, developed for the CS210 Introduction to Data Science course, is a personal data analysis tool for League of Legends.
 
 ## Overview
 

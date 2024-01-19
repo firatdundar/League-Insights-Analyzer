@@ -1,5 +1,6 @@
 # League Insights Analyzer
 Welcome to the League Insights Analyzer! This tool allows you to analyze player statistics for the popular online multiplayer game, League of Legends. Gain insights into your performance or that of other players by leveraging the wealth of data provided by Riot Games' API. This project is developed for the CS210 Introduction to Data Science course.
+- https://youtu.be/14Ai5l6hMJk
 
 ## Overview
 
